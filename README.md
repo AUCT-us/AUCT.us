@@ -6,4 +6,4 @@ At AUCT.us, we are giant fans of [AI-first thinking used by the Cursor founders]
 
 ## Getting Started
 
-Head over to [the Cursor website](https://cursor.com/) to download and try out the Cursor editor for a free two-week trial which includes 2000 completions and 50 slow premium requests.
+Head over to [the Cursor website](https://cursor.com/) to download and try out the Cursor editor for a no-cost two-week trial which includes 2000 completions and 50 slow premium requests ... *but you are probably really going to want [Cursor](https://www.cursor.com/pricing).*
